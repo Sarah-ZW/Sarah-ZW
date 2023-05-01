@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarah-ZW
-- 👀 I’m interested in becoming a software developer in any language, but am particularly interested in JavaScript.  My bootcamp took a deep dive into JavaScript and its frameworks, and I like the idea that with JavaScript I can be a full stack developer.  I learned HTML, CSS, and SQL during bootcamp as well.  I'm excited to dive into other languages as I move forward in my career.
-- 🌱 I’m currently learning Python to add to my list of languages.
+- 👀 I love being a developer and diving into code every day.  At work I use PHP, JavaScript, CSS, and HTML, but also enjoy branching out and learning about other languages.
+- 🌱 I’m currently diving into after work self-education to make sure I'm keeping up with the latest advances and dedication to be a lifelong learner.
 - 📫 How to reach me: [My Website] (https://sarah-zw.github.io/#Github)
 
 <!---

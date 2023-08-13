@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarah-ZW
 - 👀 I love being a developer and diving into code every day.  At work, I use PHP, JavaScript, CSS, and HTML, but also enjoy branching out and learning about other languages.
-- 🌱 I’m currently working hard to hone my React skills as that is one of my favorite frameworks to work with.
+- 🌱 I’m currently working hard to hone my React skills as that is one of my favorite libaries/frameworks to work with.
 - 📫 How to reach me: [My Website] (https://sarah-zw.github.io/#Github)
 
 <!---
